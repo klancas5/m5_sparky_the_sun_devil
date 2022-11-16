@@ -1,0 +1,96 @@
+* {
+    font-family : Arial, Verdana, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    box-sizing: border-box;
+ }
+ header {
+    width: 1000px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+ }
+ body {
+    background-color: #ccc; 
+    margin: 30px;
+    color: #222;   
+ }
+ div {
+    width: 1000px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ footer {
+    width: 1000px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+ }
+ h1 {
+    font-size: 40px;
+ }
+ h2 {
+    font-size: 32px;
+ }
+ h3 {
+    font-size: 24px;
+ }
+ #grid-container {
+    display: grid;
+    grid-template-columns: 1.5fr 5fr;
+ }
+ nav {
+    background-color: #ffc627;
+    list-style: none;
+ }
+ ul {
+    padding-left: 0;
+ }
+ li {
+    list-style-type: none;
+ }
+ nav a {
+    display: inline-block;
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+    margin-top: 24px;
+    margin-left: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+ }
+ main {
+    background-color: #fff;
+    padding: 24px;
+ }
+ main a:hover {
+    background-color: #8c1d40;
+    font-weight: bold;
+ }
+ p {
+    color: #444;
+ }
+ q {
+    color: #444;
+    font-style: italic;
+ }
+footer h2 {
+    font-size: 24px;
+    margin-block: 8px;
+}
+
+ 
